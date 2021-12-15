@@ -1,17 +1,14 @@
 
 <div align="center">
 <h1>Real Time Pothole Detection</h1>
-<table border="0">
-<tr>
-    <td>
-    <img src="./real-time-pothole-detection/yolov5/data/images/img.jpg" width="100%" />
-    </td>
-    <td>
-    <img src="./
-real-time-pothole-detection/yolov5/data/images/img1.jpg", width="100%" />
-    </td>
-</tr>
-</table>
+
+<p>
+This is the project of real time object detection model, using pretrained weights of volov5 algorithm, that performs <a href="https://github.com/abhip07/real-time-pothole-detection">real time Pothole Detection</a>.
+</p>
+
+<p align="center">
+<img src="./yolov5/data/images/img.jpg" width="700" />
+</p>   
 <br>
 <div>
    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
@@ -19,20 +16,23 @@ real-time-pothole-detection/yolov5/data/images/img1.jpg", width="100%" />
 </div>
 <br>
 <div align="center">
+   <a href="https://www.linkedin.com/company/ultralytics">
+   <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="6%"/>
+   </a>
+   <img width="2%" />
    <a href="https://github.com/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="2%"/>
+   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="5%"/>
    </a>
    <img width="2%" />
    <a href="https://www.linkedin.com/company/ultralytics">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="2%"/>
+   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="5%"/>
    </a>
+   
+   
+    
 </div>
    
 <br>
-<p>
-YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, and represents <a href="https://ultralytics.com">Ultralytics</a>
- open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
-</p>
 
 <!--
 <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
@@ -41,9 +41,9 @@ YOLOv5 🚀 is a family of object detection architectures and models pretrained 
 
 </div>
 
-## <div align="center">Documentation</div>
+## <div align="center">Dataset Used</div>
 
-See the [YOLOv5 Docs](https://docs.ultralytics.com) for full documentation on training, testing and deployment.
+In this Project I have used custom labelled dataset with some images from google to make the learning process more complex..
 
 ## <div align="center">Quick Start Examples</div>
 
