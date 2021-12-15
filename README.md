@@ -1,10 +1,17 @@
 
 <div align="center">
 <h1>Real Time Pothole Detection</h1>
-<p>
-   <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="425" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
-</p>
+<table border="0">
+<tr>
+    <td>
+    <img src="./real-time-pothole-detection/yolov5/data/images/img.jpg" width="100%" />
+    </td>
+    <td>
+    <img src="./
+real-time-pothole-detection/yolov5/data/images/img1.jpg", width="100%" />
+    </td>
+</tr>
+</table>
 <br>
 <div>
    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
