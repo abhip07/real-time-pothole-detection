@@ -62,16 +62,16 @@ In this Project I have used custom labelled dataset with some images from google
 </details>
 
 ## <div align="center">Training Results</div>
-   <p align="left"><img width="600" src="./yolov5/data/results/results.png" align="center"></p>
+   <p align="left"><img width="800" src="./yolov5/data/results/results.png" align="center"></p>
 </details>
 
 
 ## <div align="center">Yolo vs Efficientdet performance</div>
-   <p align="left"><img width="600" src="https://user-images.githubusercontent.com/26833433/136763877-b174052b-c12f-48d2-8bc4-545e3853398e.png"></p>
+   <p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/136763877-b174052b-c12f-48d2-8bc4-545e3853398e.png"></p>
 </details>
 
   <summary>YOLOv5 Nano models </summary>
-  <p align="left"><img width="600" src="https://user-images.githubusercontent.com/26833433/136901921-abcfcd9d-f978-4942-9b97-0e3f202907df.png"></p>
+  <p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/136901921-abcfcd9d-f978-4942-9b97-0e3f202907df.png"></p>
 <details open>
 
 
