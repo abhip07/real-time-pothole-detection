@@ -6,9 +6,11 @@
 This is the project of real time object detection model, using pretrained weights of volov5 algorithm, that performs <a href="https://github.com/abhip07/real-time-pothole-detection">real time Pothole Detection</a>.
 </p>
 
-<p align="left">
-<img src="./yolov5/data/images/img.jpg" width="700" />
-</p>   
+<p align="center">
+<img src="./yolov5/data/images/img.jpg" width="700"/>
+</p> 
+   
+ #### Click on YouTube icon below to see the real time video inference or Click <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">Here</a>.
 <br>
 <div>
    <a href="https://colab.research.google.com/drive/1E3W2WNPUyFpEjjO1GJrr8RIFSNDkqxPW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
@@ -17,7 +19,7 @@ This is the project of real time object detection model, using pretrained weight
 <br>
 <div align="center">
    <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">
-   <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="6%"/>
+   <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="5%"/>
    </a>
    <img width="2%" />
    <a href="https://github.com/abhip07">
@@ -25,7 +27,7 @@ This is the project of real time object detection model, using pretrained weight
    </a>
    <img width="2%" />
    <a href="https://www.linkedin.com/in/abhishek-pawar-8537971b1/">
-   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="5%"/>
+   <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="4%"/>
    </a>
    
    
@@ -45,34 +47,35 @@ This is the project of real time object detection model, using pretrained weight
 
 In this Project I have used custom labelled dataset with some images from google to make the learning process more complex..
 
-## <div align="center">Quick Start Examples</div>
-
-<details open>
-<summary>Install</summary>
-
-[**Python>=3.6.0**](https://www.python.org/) is required with all
-[requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) installed including
-[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/):
-<!-- $ sudo apt update && apt install -y libgl1-mesa-glx libsm6 libxext6 libxrender-dev -->
-
-```bash
-$ git clone https://github.com/ultralytics/yolov5
-$ cd yolov5
-$ pip install -r requirements.txt
-```
+## <div align='left'>Training Dataset Sample</div>
+<table border="0">
+<tr>
+    <td>
+    <img src="./yolov5/data/images/training data.jpg" width="100%" />
+    </td>
+    <td>
+    <img src="./yolov5/data/images/training data2.jpg", width="100%" />
+    </td>
+</tr>
+</table>
 
 </details>
 
-## <div align="center">Why I used YOLO for Transfer Learning</div>
-
-<p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/136901921-abcfcd9d-f978-4942-9b97-0e3f202907df.png"></p>
-<details open>
-  <summary>YOLOv5-P5 640 Figure (click to expand)</summary>
-
-<p align="left"><img width="800" src="https://user-images.githubusercontent.com/26833433/136763877-b174052b-c12f-48d2-8bc4-545e3853398e.png"></p>
+## <div align="center">Training Results</div>
+   <p align="left"><img width="600" src="./yolov5/data/results/results.png" align="center"></p>
 </details>
 
-### Pretrained Checkpoints
+
+## <div align="center">Yolo vs Efficientdet performance</div>
+   <p align="left"><img width="600" src="https://user-images.githubusercontent.com/26833433/136763877-b174052b-c12f-48d2-8bc4-545e3853398e.png"></p>
+</details>
+
+  <summary>YOLOv5 Nano models </summary>
+  <p align="left"><img width="600" src="https://user-images.githubusercontent.com/26833433/136901921-abcfcd9d-f978-4942-9b97-0e3f202907df.png"></p>
+<details open>
+
+
+### Pretrained Checkpoints for YOLOv5 transfer learning
 
 [assets]: https://github.com/ultralytics/yolov5/releases
 [TTA]: https://github.com/ultralytics/yolov5/issues/303
@@ -96,11 +99,7 @@ $ pip install -r requirements.txt
 
 If you have suggestions, you can contact me through gmail or Linkedin! This project is in its early stage and I belive it will get improved over the time in future iterations. Thank you!
    
-## <div align="center">Conclusion</div>
-
-For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues). For business inquiries or
-professional support requests please visit [https://ultralytics.com/contact](https://ultralytics.com/contact).
-
+## <div align="center">Thank You</div>
 <br>
 
 <div align="center">
