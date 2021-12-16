@@ -6,25 +6,25 @@
 This is the project of real time object detection model, using pretrained weights of volov5 algorithm, that performs <a href="https://github.com/abhip07/real-time-pothole-detection">real time Pothole Detection</a>.
 </p>
 
-<p align="center">
+<p align="left">
 <img src="./yolov5/data/images/img.jpg" width="700" />
 </p>   
 <br>
 <div>
-   <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+   <a href="https://colab.research.google.com/drive/1E3W2WNPUyFpEjjO1GJrr8RIFSNDkqxPW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
    
 </div>
 <br>
 <div align="center">
-   <a href="https://www.linkedin.com/company/ultralytics">
+   <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">
    <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="6%"/>
    </a>
    <img width="2%" />
-   <a href="https://github.com/ultralytics">
+   <a href="https://github.com/abhip07">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="5%"/>
    </a>
    <img width="2%" />
-   <a href="https://www.linkedin.com/company/ultralytics">
+   <a href="https://www.linkedin.com/in/abhishek-pawar-8537971b1/">
    <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="5%"/>
    </a>
    
@@ -62,67 +62,6 @@ $ pip install -r requirements.txt
 ```
 
 </details>
-
-<details open>
-<summary>Inference</summary>
-
-Inference with YOLOv5 and [PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36). Models automatically download
-from the [latest YOLOv5 release](https://github.com/ultralytics/yolov5/releases).
-
-```python
-import torch
-
-# Model
-model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  # or yolov5m, yolov5l, yolov5x, custom
-
-# Images
-img = 'https://ultralytics.com/images/zidane.jpg'  # or file, Path, PIL, OpenCV, numpy, list
-
-# Inference
-results = model(img)
-
-# Results
-results.print()  # or .show(), .save(), .crop(), .pandas(), etc.
-```
-
-</details>
-
-
-
-<details open>
-<summary>Inference with detect.py</summary>
-
-`detect.py` runs inference on a variety of sources, downloading models automatically from
-the [latest YOLOv5 release](https://github.com/ultralytics/yolov5/releases) and saving results to `runs/detect`.
-
-```bash
-$ python detect.py --source 0  # webcam
-                            img.jpg  # image
-                            vid.mp4  # video
-                            path/  # directory
-                            path/*.jpg  # glob
-                            'https://youtu.be/Zgi9g1ksQHc'  # YouTube
-                            'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
-```
-
-</details>
-
-<details open>
-<summary>Training</summary>
-
-Run commands below to reproduce results
-on [COCO](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh) dataset (dataset auto-downloads on
-first use). Training times for YOLOv5s/m/l/x are 2/4/6/8 days on a single V100 (multi-GPU times faster). Use the
-largest `--batch-size` your GPU allows (batch sizes shown for 16 GB devices).
-
-```bash
-$ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 64
-                                         yolov5m                                40
-                                         yolov5l                                24
-                                         yolov5x                                16
-```
-
-<img width="800" src="https://user-images.githubusercontent.com/26833433/90222759-949d8800-ddc1-11ea-9fa1-1c97eed2b963.png">
 
 ## <div align="center">Why I used YOLO for Transfer Learning</div>
 
