@@ -7,14 +7,14 @@ This is the project of real time object detection model, using pretrained weight
 </p>
 
 <p align="center">
-<img src="./yolov5/data/images/img.jpg" width="600"/>
+<img src="./yolov5/data/images/img.jpg" width="600" height="400"/>
 </p> 
    
- #### Click on YouTube icon below to see the real time video inference or Click <a href="https://youtube.com/playlist?list=PLM5rSizdAguQ9ehaJd1he7Tap8_EREmvc">Here</a>.
+ #### Click on YouTube icon below to see the real time video inference or Click <a href="https://youtu.be/mXwaTjRqBLI">Here</a>.
 <br>
    
 <div align="center">
-   <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">
+   <a href="https://youtube.com/playlist?list=PLM5rSizdAguQ9ehaJd1he7Tap8_EREmvc">
    <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="6%"/>
    </a>
    <img width="2%" />
