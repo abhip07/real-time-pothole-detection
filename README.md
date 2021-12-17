@@ -10,16 +10,12 @@ This is the project of real time object detection model, using pretrained weight
 <img src="./yolov5/data/images/img.jpg" width="700"/>
 </p> 
    
- #### Click on YouTube icon below to see the real time video inference or Click <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">Here</a>.
+ #### Click on YouTube icon below to see the real time video inference or Click <a href="https://youtube.com/playlist?list=PLM5rSizdAguQ9ehaJd1he7Tap8_EREmvc">Here</a>.
 <br>
-<div>
-   <a href="https://colab.research.google.com/drive/1E3W2WNPUyFpEjjO1GJrr8RIFSNDkqxPW"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
    
-</div>
-<br>
 <div align="center">
    <a href="https://www.youtube.com/channel/UCpgroap5zUYfGqaHg-K4NHw">
-   <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="5%"/>
+   <img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" width="6%"/>
    </a>
    <img width="2%" />
    <a href="https://github.com/abhip07">
@@ -94,10 +90,11 @@ In this Project I have used custom labelled dataset with some images from google
 |[YOLOv5l6][assets]     |1280 |53.6   |71.6   |1784   |15.8   |10.5   |76.8   |111.4
 |[YOLOv5x6][assets]<br>+ [TTA][TTA]|1280<br>1536 |54.7<br>**55.4** |**72.4**<br>72.3 |3136<br>- |26.2<br>- |19.4<br>- |140.7<br>- |209.8<br>-
 
+## In this project I have used YOLOv5l for transfer learning.
 
 ## <div align="center">Suggest Improvements</div>
 
 If you have suggestions, you can contact me through gmail or Linkedin! This project is in its early stage and I belive it will get improved over the time in future iterations. Thank you!
    
-## <div align="center">Thank You</div>
+## <div align="center">Thank You :)</div>
 <br>
