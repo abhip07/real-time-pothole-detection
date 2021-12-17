@@ -90,7 +90,7 @@ In this Project I have used custom labelled dataset with some images from google
 |[YOLOv5l6][assets]     |1280 |53.6   |71.6   |1784   |15.8   |10.5   |76.8   |111.4
 |[YOLOv5x6][assets]<br>+ [TTA][TTA]|1280<br>1536 |54.7<br>**55.4** |**72.4**<br>72.3 |3136<br>- |26.2<br>- |19.4<br>- |140.7<br>- |209.8<br>-
 
-## In this project I have used YOLOv5l for transfer learning.
+### In this project I have used YOLOv5l for transfer learning.
 
 ## <div align="center">Suggest Improvements</div>
 
