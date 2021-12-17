@@ -10,7 +10,7 @@ This is the project of real time object detection model, using pretrained weight
 <img src="./yolov5/data/images/img.jpg" width="600" height="400"/>
 </p> 
    
- #### Click on YouTube icon below to see the real time video inference or Click <a href="https://youtu.be/mXwaTjRqBLI">Here</a>.
+ #### Click on YouTube icon below to see the real time video inference or Click <a href="https://youtu.be/b0Lm3yeNxPM">Here</a>.
 <br>
    
 <div align="center">
