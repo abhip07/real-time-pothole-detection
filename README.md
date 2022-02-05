@@ -94,7 +94,7 @@ In this Project I have used custom labelled dataset with some images from google
 
 ## <div align="center">Suggest Improvements</div>
 
-If you have suggestions, you can contact me through gmail or Linkedin! This project is in its early stage and I belive it will get improved over the time in future iterations. Thank you!
+If you have suggestions and if you need dataset or trained model weights, you can contact me through email or Linkedin! This project is in its early stage and I belive it will get improved over the time in future iterations. Thank you!
    
 ## <div align="center">Thank You :)</div>
 <br>
